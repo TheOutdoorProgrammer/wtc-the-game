@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
 import json
 
-from pyparsing import empty
-
 
 def build_tower(tower_to_build):
 
@@ -75,7 +73,10 @@ def build_tower(tower_to_build):
             for company in companies_in_row:
                 company = company.strip().replace('\n', '')
                 if company not in processed_companies:
-                    directory.append(empty_floor_object)
+                    directory.append({
+                        "name": company,
+                        "wikiPage": None
+                    })
 
         # Add the floor to the tower
         tower[floor] = {
