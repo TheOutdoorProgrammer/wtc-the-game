@@ -50,18 +50,17 @@ def build_tower(tower_to_build):
             if cell_counter == 2:
                 continue
 
-            # Ensure we dont double up on companies
-            processed_companies = []
-
             # Process companies with an anchor tag
             companies = cell.find_all('a')
-            for companies in companies:
-                link = companies["href"]
+            for company in companies:
+                link = company["href"]
                 directory.append({
-                    "name": companies.get_text(),
+                    "name": company.get_text(),
                     "wikiPage": link.replace('\u2013', '-')
                 })
-                processed_companies.append(companies.get_text())
+
+                # Delete the company from the dom so we can process non-linked companies later
+                company.clear()
 
             # Process floors that wikipedia labels as "-", assume they are empty floors
             companies_in_row = cell.get_text().split(",")
@@ -70,13 +69,15 @@ def build_tower(tower_to_build):
                 continue
 
             # Ensure that companies without an anchor tag are processed
-            for company in companies_in_row:
-                company = company.strip().replace('\n', '')
-                if company not in processed_companies:
-                    directory.append({
-                        "name": company,
-                        "wikiPage": None
-                    })
+            companies = cell.get_text().split(",")
+            companies = list(filter(None, companies))
+            companies = [x.strip() for x in companies if x.strip() != '']
+            for company in companies:
+                company = company.replace('\n', '')
+                directory.append({
+                    "name": company,
+                    "wikiPage": None
+                })
 
         # Add the floor to the tower
         tower[floor] = {
