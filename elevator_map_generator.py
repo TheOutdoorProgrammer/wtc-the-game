@@ -141,7 +141,10 @@ def elevator_map():
         "110": ["zone_3:local", "shuttles:express"]
     }
 
+    with open(f"floor_to_elevator.json", "w") as f:
+        f.write(json.dumps(floor_to_elevator, indent=4))
+
     with open(f"elevator_map.json", "w") as f:
-        f.write(json.dumps({"elevators": elevators, "floor_to_elevator": floor_to_elevator}, indent=4))
+        f.write(json.dumps(elevators, indent=4))
 
 elevator_map()

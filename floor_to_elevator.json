@@ -1,0 +1,348 @@
+{
+    "B": [
+        "zone_1:local",
+        "zone_1:bank_a"
+    ],
+    "C": [
+        "zone_1:local",
+        "zone_1:bank_a",
+        "zone_1:bank_b",
+        "zone_1:bank_c",
+        "zone_1:bank_d",
+        "shuttles:zone_2",
+        "shuttles:zone_3",
+        "shuttles:express"
+    ],
+    "L": [
+        "zone_1:local"
+    ],
+    "1": [
+        "zone_1:local"
+    ],
+    "2": [
+        "zone_1:local"
+    ],
+    "3": [
+        "zone_1:local"
+    ],
+    "4": [
+        "zone_1:local"
+    ],
+    "5": [
+        "zone_1:local"
+    ],
+    "6": [
+        "zone_1:local"
+    ],
+    "9": [
+        "zone_1:bank_a"
+    ],
+    "10": [
+        "zone_1:bank_a"
+    ],
+    "11": [
+        "zone_1:bank_a"
+    ],
+    "12": [
+        "zone_1:bank_a"
+    ],
+    "13": [
+        "zone_1:bank_a"
+    ],
+    "14": [
+        "zone_1:bank_a"
+    ],
+    "15": [
+        "zone_1:bank_a"
+    ],
+    "16": [
+        "zone_1:bank_a"
+    ],
+    "17": [
+        "zone_1:bank_b"
+    ],
+    "18": [
+        "zone_1:bank_b"
+    ],
+    "19": [
+        "zone_1:bank_b"
+    ],
+    "20": [
+        "zone_1:bank_b"
+    ],
+    "21": [
+        "zone_1:bank_b"
+    ],
+    "22": [
+        "zone_1:bank_b"
+    ],
+    "23": [
+        "zone_1:bank_c",
+        "zone_1:bank_d"
+    ],
+    "24": [
+        "zone_1:bank_c",
+        "zone_1:bank_d"
+    ],
+    "25": [
+        "zone_1:bank_c"
+    ],
+    "26": [
+        "zone_1:bank_c"
+    ],
+    "27": [
+        "zone_1:bank_c"
+    ],
+    "28": [
+        "zone_1:bank_c"
+    ],
+    "29": [
+        "zone_1:bank_c"
+    ],
+    "30": [
+        "zone_1:bank_c"
+    ],
+    "31": [
+        "zone_1:bank_c"
+    ],
+    "32": [
+        "zone_1:bank_c",
+        "zone_1:bank_d"
+    ],
+    "33": [
+        "zone_1:bank_d"
+    ],
+    "34": [
+        "zone_1:bank_d"
+    ],
+    "35": [
+        "zone_1:bank_d"
+    ],
+    "36": [
+        "zone_1:bank_d"
+    ],
+    "37": [
+        "zone_1:bank_d"
+    ],
+    "38": [
+        "zone_1:bank_d"
+    ],
+    "39": [
+        "zone_1:bank_d"
+    ],
+    "40": [
+        "zone_1:bank_d"
+    ],
+    "43": [
+        "zone_2:stairs"
+    ],
+    "44": [
+        "zone_2:stairs",
+        "zone_2:bank_a",
+        "zone_2:bank_b",
+        "zone_2:bank_c",
+        "zone_2:bank_d",
+        "shuttles:zone_2"
+    ],
+    "45": [
+        "zone_2:bank_a"
+    ],
+    "46": [
+        "zone_2:bank_a"
+    ],
+    "47": [
+        "zone_2:bank_a"
+    ],
+    "48": [
+        "zone_2:bank_a"
+    ],
+    "49": [
+        "zone_2:bank_a"
+    ],
+    "50": [
+        "zone_2:bank_a"
+    ],
+    "51": [
+        "zone_2:bank_a"
+    ],
+    "52": [
+        "zone_2:bank_a"
+    ],
+    "53": [
+        "zone_2:bank_a"
+    ],
+    "54": [
+        "zone_2:bank_a",
+        "zone_2:bank_b"
+    ],
+    "55": [
+        "zone_2:bank_b"
+    ],
+    "56": [
+        "zone_2:bank_b"
+    ],
+    "57": [
+        "zone_2:bank_b"
+    ],
+    "58": [
+        "zone_2:bank_b"
+    ],
+    "59": [
+        "zone_2:bank_b"
+    ],
+    "60": [
+        "zone_2:bank_b"
+    ],
+    "61": [
+        "zone_2:bank_b"
+    ],
+    "62": [
+        "zone_2:bank_c"
+    ],
+    "63": [
+        "zone_2:bank_c"
+    ],
+    "64": [
+        "zone_2:bank_c"
+    ],
+    "65": [
+        "zone_2:bank_c"
+    ],
+    "66": [
+        "zone_2:bank_c"
+    ],
+    "67": [
+        "zone_2:bank_c",
+        "zone_2:bank_d"
+    ],
+    "68": [
+        "zone_2:bank_d"
+    ],
+    "69": [
+        "zone_2:bank_d"
+    ],
+    "70": [
+        "zone_2:bank_d"
+    ],
+    "71": [
+        "zone_2:bank_d"
+    ],
+    "72": [
+        "zone_2:bank_d"
+    ],
+    "73": [
+        "zone_2:bank_d"
+    ],
+    "74": [
+        "zone_2:bank_d"
+    ],
+    "77": [
+        "zone_3:stairs"
+    ],
+    "78": [
+        "zone_3:stairs",
+        "zone_3:bank_a",
+        "zone_3:bank_b",
+        "zone_3:bank_c",
+        "zone_3:bank_d",
+        "shuttles:zone_3"
+    ],
+    "79": [
+        "zone_3:bank_a"
+    ],
+    "80": [
+        "zone_3:bank_a"
+    ],
+    "81": [
+        "zone_3:bank_a"
+    ],
+    "82": [
+        "zone_3:bank_a"
+    ],
+    "83": [
+        "zone_3:bank_a"
+    ],
+    "84": [
+        "zone_3:bank_a"
+    ],
+    "85": [
+        "zone_3:bank_a"
+    ],
+    "86": [
+        "zone_3:bank_a"
+    ],
+    "87": [
+        "zone_3:bank_b"
+    ],
+    "88": [
+        "zone_3:bank_b"
+    ],
+    "89": [
+        "zone_3:bank_b"
+    ],
+    "90": [
+        "zone_3:bank_b"
+    ],
+    "91": [
+        "zone_3:bank_b"
+    ],
+    "92": [
+        "zone_3:bank_b"
+    ],
+    "93": [
+        "zone_3:bank_b"
+    ],
+    "94": [
+        "zone_3:bank_c"
+    ],
+    "95": [
+        "zone_3:bank_c"
+    ],
+    "96": [
+        "zone_3:bank_c"
+    ],
+    "97": [
+        "zone_3:bank_c"
+    ],
+    "98": [
+        "zone_3:bank_c"
+    ],
+    "99": [
+        "zone_3:bank_c"
+    ],
+    "100": [
+        "zone_3:bank_c"
+    ],
+    "101": [
+        "zone_3:bank_d"
+    ],
+    "102": [
+        "zone_3:bank_d"
+    ],
+    "103": [
+        "zone_3:bank_d"
+    ],
+    "104": [
+        "zone_3:bank_d"
+    ],
+    "105": [
+        "zone_3:bank_d"
+    ],
+    "106": [
+        "zone_3:bank_d"
+    ],
+    "107": [
+        "zone_3:bank_d",
+        "zone_3:local"
+    ],
+    "108": [
+        "zone_3:local"
+    ],
+    "109": [
+        "zone_3:local"
+    ],
+    "110": [
+        "zone_3:local",
+        "shuttles:express"
+    ]
+}
