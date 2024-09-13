@@ -5,6 +5,10 @@
                 "name": "Outdoor Observatory",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_3:local",
+            "shuttles:express"
         ]
     },
     "109": {
@@ -13,6 +17,9 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
+        ],
+        "elevators": [
+            "zone_3:local"
         ]
     },
     "108": {
@@ -21,6 +28,9 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
+        ],
+        "elevators": [
+            "zone_3:local"
         ]
     },
     "107": {
@@ -53,6 +63,10 @@
                 "name": "Manhattan Magic",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d",
+            "zone_3:local"
         ]
     },
     "106": {
@@ -61,6 +75,9 @@
                 "name": "Atlantic Bank of New York",
                 "wikiPage": "https://en.wikipedia.org/wiki/Atlantic_Bank_of_New_York"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "105": {
@@ -69,6 +86,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "104": {
@@ -81,6 +101,9 @@
                 "name": "Sandler O'Neill and Partners",
                 "wikiPage": "https://en.wikipedia.org/wiki/Sandler_O%27Neill_and_Partners"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "103": {
@@ -89,6 +112,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "102": {
@@ -97,6 +123,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "101": {
@@ -105,6 +134,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_d"
         ]
     },
     "100": {
@@ -113,6 +145,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "99": {
@@ -121,6 +156,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "98": {
@@ -129,6 +167,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "97": {
@@ -137,6 +178,9 @@
                 "name": "Fiduciary Trust Company International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fiduciary_Trust_Company_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "96": {
@@ -145,6 +189,9 @@
                 "name": "Fiduciary Trust Company International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fiduciary_Trust_Company_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "95": {
@@ -153,6 +200,9 @@
                 "name": "Fiduciary Trust Company International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fiduciary_Trust_Company_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "94": {
@@ -161,6 +211,9 @@
                 "name": "Fiduciary Trust Company International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fiduciary_Trust_Company_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_c"
         ]
     },
     "93": {
@@ -173,6 +226,9 @@
                 "name": "Regus Business Centers",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "92": {
@@ -181,6 +237,9 @@
                 "name": "AON Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Aon_(company)"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "91": {
@@ -197,6 +256,9 @@
                 "name": "Washington Group International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Washington_Group_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "90": {
@@ -205,6 +267,9 @@
                 "name": "Fiduciary Trust Company International",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fiduciary_Trust_Company_International"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "89": {
@@ -213,6 +278,9 @@
                 "name": "Keefe, Bruyette & Woods",
                 "wikiPage": "https://en.wikipedia.org/wiki/Keefe,_Bruyette_%26_Woods"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "88": {
@@ -221,6 +289,9 @@
                 "name": "Keefe, Bruyette & Woods",
                 "wikiPage": "https://en.wikipedia.org/wiki/Keefe,_Bruyette_%26_Woods"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "87": {
@@ -233,6 +304,9 @@
                 "name": "Corporation Service Company",
                 "wikiPage": "https://en.wikipedia.org/wiki/Corporation_Service_Company"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_b"
         ]
     },
     "86": {
@@ -241,6 +315,9 @@
                 "name": "New York State Department of Taxation and Finance",
                 "wikiPage": "https://en.wikipedia.org/wiki/New_York_State_Department_of_Taxation_and_Finance"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "85": {
@@ -249,6 +326,9 @@
                 "name": "Harris Beach & Wilcox",
                 "wikiPage": "https://en.wikipedia.org/wiki/Harris_Beach"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "84": {
@@ -257,6 +337,9 @@
                 "name": "EuroBrokers",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=EuroBrokers&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "83": {
@@ -269,6 +352,9 @@
                 "name": "Chuo Mitsui Trust & Banking",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Chuo_Mitsui_Trust_%26_Banking&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "82": {
@@ -277,6 +363,9 @@
                 "name": "Fuji Bank",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fuji_Bank"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "81": {
@@ -285,6 +374,9 @@
                 "name": "Fuji Bank",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fuji_Bank"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "80": {
@@ -293,6 +385,9 @@
                 "name": "Fuji Bank",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fuji_Bank"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "79": {
@@ -301,6 +396,9 @@
                 "name": "Fuji Bank",
                 "wikiPage": "https://en.wikipedia.org/wiki/Fuji_Bank"
             }
+        ],
+        "elevators": [
+            "zone_3:bank_a"
         ]
     },
     "78": {
@@ -317,6 +415,14 @@
                 "name": "Baseline Financial Services",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Baseline_Financial_Services&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_3:stairs",
+            "zone_3:bank_a",
+            "zone_3:bank_b",
+            "zone_3:bank_c",
+            "zone_3:bank_d",
+            "shuttles:zone_3"
         ]
     },
     "77": {
@@ -325,6 +431,9 @@
                 "name": "Baseline Financial Services",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Baseline_Financial_Services&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_3:stairs"
         ]
     },
     "76": {
@@ -333,7 +442,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "75": {
         "directory": [
@@ -341,7 +451,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "74": {
         "directory": [
@@ -349,6 +460,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "73": {
@@ -357,6 +471,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "72": {
@@ -365,6 +482,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "71": {
@@ -373,6 +493,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "70": {
@@ -381,6 +504,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "69": {
@@ -389,6 +515,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "68": {
@@ -397,6 +526,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_d"
         ]
     },
     "67": {
@@ -405,6 +537,10 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c",
+            "zone_2:bank_d"
         ]
     },
     "66": {
@@ -413,6 +549,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c"
         ]
     },
     "65": {
@@ -421,6 +560,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c"
         ]
     },
     "64": {
@@ -429,6 +571,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c"
         ]
     },
     "63": {
@@ -437,6 +582,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c"
         ]
     },
     "62": {
@@ -449,6 +597,9 @@
                 "name": "Demeter Management Corporation",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Demeter_Management_Corporation&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_c"
         ]
     },
     "61": {
@@ -457,6 +608,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "60": {
@@ -465,6 +619,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "59": {
@@ -473,6 +630,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "58": {
@@ -481,6 +641,9 @@
                 "name": "Bridge Information Systems",
                 "wikiPage": "https://en.wikipedia.org/wiki/Bridge_Information_Systems"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "57": {
@@ -493,6 +656,9 @@
                 "name": "[62]",
                 "wikiPage": "#cite_note-65"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "56": {
@@ -501,6 +667,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "55": {
@@ -517,6 +686,9 @@
                 "name": "Harlows",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_2:bank_b"
         ]
     },
     "54": {
@@ -525,6 +697,10 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a",
+            "zone_2:bank_b"
         ]
     },
     "53": {
@@ -533,6 +709,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "52": {
@@ -541,6 +720,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "51": {
@@ -549,6 +731,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "50": {
@@ -557,6 +742,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "49": {
@@ -569,6 +757,9 @@
                 "name": "Seabury & Smith",
                 "wikiPage": "https://en.wikipedia.org/wiki/Seabury_%26_Smith"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "48": {
@@ -581,6 +772,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "47": {
@@ -589,6 +783,9 @@
                 "name": "Guy Carpenter",
                 "wikiPage": "https://en.wikipedia.org/wiki/Guy_Carpenter"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "46": {
@@ -597,6 +794,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "45": {
@@ -605,6 +805,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:bank_a"
         ]
     },
     "44": {
@@ -617,6 +820,14 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:stairs",
+            "zone_2:bank_a",
+            "zone_2:bank_b",
+            "zone_2:bank_c",
+            "zone_2:bank_d",
+            "shuttles:zone_2"
         ]
     },
     "43": {
@@ -625,6 +836,9 @@
                 "name": "Morgan Stanley",
                 "wikiPage": "https://en.wikipedia.org/wiki/Morgan_Stanley"
             }
+        ],
+        "elevators": [
+            "zone_2:stairs"
         ]
     },
     "42": {
@@ -633,7 +847,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "41": {
         "directory": [
@@ -641,7 +856,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "40": {
         "directory": [
@@ -653,6 +869,9 @@
                 "name": "Thacher Proffitt & Wood, LLP",
                 "wikiPage": "https://en.wikipedia.org/wiki/Thacher_Proffitt_%26_Wood,_LLP"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "39": {
@@ -661,6 +880,9 @@
                 "name": "Thacher Proffitt & Wood, LLP",
                 "wikiPage": "https://en.wikipedia.org/wiki/Thacher_Proffitt_%26_Wood,_LLP"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "38": {
@@ -669,6 +891,9 @@
                 "name": "Thacher Proffitt & Wood, LLP",
                 "wikiPage": "https://en.wikipedia.org/wiki/Thacher_Proffitt_%26_Wood,_LLP"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "37": {
@@ -677,6 +902,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "36": {
@@ -685,6 +913,9 @@
                 "name": "Frenkel and Company",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Frenkel_and_Company&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "35": {
@@ -693,6 +924,9 @@
                 "name": "Frenkel and Company",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Frenkel_and_Company&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "34": {
@@ -701,6 +935,9 @@
                 "name": "OppenheimerFunds",
                 "wikiPage": "https://en.wikipedia.org/wiki/OppenheimerFunds"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "33": {
@@ -709,6 +946,9 @@
                 "name": "OppenheimerFunds",
                 "wikiPage": "https://en.wikipedia.org/wiki/OppenheimerFunds"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_d"
         ]
     },
     "32": {
@@ -721,6 +961,10 @@
                 "name": "Commerzbank Capital Markets",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Commerzbank_Capital_Markets&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c",
+            "zone_1:bank_d"
         ]
     },
     "31": {
@@ -729,6 +973,9 @@
                 "name": "OppenheimerFunds",
                 "wikiPage": "https://en.wikipedia.org/wiki/OppenheimerFunds"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "30": {
@@ -741,6 +988,9 @@
                 "name": "Hartford Steam Boiler",
                 "wikiPage": "https://en.wikipedia.org/wiki/Hartford_Steam_Boiler"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "29": {
@@ -753,6 +1003,9 @@
                 "name": "New York Stock Exchange",
                 "wikiPage": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "28": {
@@ -773,6 +1026,9 @@
                 "name": "Hua Nan Commercial Bank Ltd.",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Hua_Nan_Commercial_Bank_Ltd.&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "27": {
@@ -781,6 +1037,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "26": {
@@ -789,6 +1048,9 @@
                 "name": "Sun Microsystems",
                 "wikiPage": "https://en.wikipedia.org/wiki/Sun_Microsystems"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "25": {
@@ -797,6 +1059,9 @@
                 "name": "Sun Microsystems",
                 "wikiPage": "https://en.wikipedia.org/wiki/Sun_Microsystems"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c"
         ]
     },
     "24": {
@@ -825,6 +1090,10 @@
                 "name": "TD Ameritrade",
                 "wikiPage": "https://en.wikipedia.org/wiki/TD_Ameritrade"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c",
+            "zone_1:bank_d"
         ]
     },
     "23": {
@@ -837,6 +1106,10 @@
                 "name": "Unistrat Corporation of America",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Unistrat_Corporation_of_America&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_c",
+            "zone_1:bank_d"
         ]
     },
     "22": {
@@ -853,6 +1126,9 @@
                 "name": "Antal International",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "21": {
@@ -877,6 +1153,9 @@
                 "name": "Taiwan Sugar Corporation",
                 "wikiPage": "https://en.wikipedia.org/wiki/Taiwan_Sugar_Corporation"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "20": {
@@ -889,6 +1168,9 @@
                 "name": "New York Shipping Association",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=New_York_Shipping_Association&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "19": {
@@ -901,6 +1183,9 @@
                 "name": "Waterfront Commission of New York Harbor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Waterfront_Commission"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "18": {
@@ -917,6 +1202,9 @@
                 "name": "Weiland International Inc.",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Weiland_International_Inc.&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "17": {
@@ -925,6 +1213,9 @@
                 "name": "New York Institute of Finance",
                 "wikiPage": "https://en.wikipedia.org/wiki/New_York_Institute_of_Finance"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_b"
         ]
     },
     "16": {
@@ -933,6 +1224,9 @@
                 "name": "National Development and Research Institute",
                 "wikiPage": "https://en.wikipedia.org/wiki/National_Development_and_Research_Institute"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "15": {
@@ -969,6 +1263,9 @@
                 "name": "TD Ameritrade",
                 "wikiPage": "https://en.wikipedia.org/wiki/TD_Ameritrade"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "14": {
@@ -989,6 +1286,9 @@
                 "name": "Union Bank of California",
                 "wikiPage": "https://en.wikipedia.org/wiki/Union_Bank_of_California"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "13": {
@@ -997,6 +1297,9 @@
                 "name": "Verizon Communications",
                 "wikiPage": "https://en.wikipedia.org/wiki/Verizon_Communications"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "12": {
@@ -1005,6 +1308,9 @@
                 "name": "Verizon Communications",
                 "wikiPage": "https://en.wikipedia.org/wiki/Verizon_Communications"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "11": {
@@ -1017,6 +1323,9 @@
                 "name": "Candia Shipping",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Candia_Shipping&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "10": {
@@ -1025,6 +1334,9 @@
                 "name": "Verizon Communications",
                 "wikiPage": "https://en.wikipedia.org/wiki/Verizon_Communications"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "9": {
@@ -1033,6 +1345,9 @@
                 "name": "Verizon Communications",
                 "wikiPage": "https://en.wikipedia.org/wiki/Verizon_Communications"
             }
+        ],
+        "elevators": [
+            "zone_1:bank_a"
         ]
     },
     "8": {
@@ -1041,7 +1356,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "7": {
         "directory": [
@@ -1049,7 +1365,8 @@
                 "name": "Mechanical floor",
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
-        ]
+        ],
+        "elevators": []
     },
     "6": {
         "directory": [
@@ -1057,6 +1374,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "5": {
@@ -1065,6 +1385,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "4": {
@@ -1073,6 +1396,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "3": {
@@ -1081,6 +1407,9 @@
                 "name": "Empty Floor",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "2": {
@@ -1089,6 +1418,9 @@
                 "name": "TKTS",
                 "wikiPage": "https://en.wikipedia.org/wiki/TKTS"
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "1": {
@@ -1097,6 +1429,9 @@
                 "name": "Colortek Kodak Imaging Center",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Colortek_Kodak_Imaging_Center&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "L": {
@@ -1105,6 +1440,9 @@
                 "name": "Nichols Foundation",
                 "wikiPage": "https://en.wikipedia.org/w/index.php?title=Nichols_Foundation&action=edit&redlink=1"
             }
+        ],
+        "elevators": [
+            "zone_1:local"
         ]
     },
     "C": {
@@ -1113,6 +1451,16 @@
                 "name": "The Mall at the World Trade Center",
                 "wikiPage": "https://en.wikipedia.org/wiki/The_Mall_at_the_World_Trade_Center"
             }
+        ],
+        "elevators": [
+            "zone_1:local",
+            "zone_1:bank_a",
+            "zone_1:bank_b",
+            "zone_1:bank_c",
+            "zone_1:bank_d",
+            "shuttles:zone_2",
+            "shuttles:zone_3",
+            "shuttles:express"
         ]
     },
     "B": {
@@ -1133,6 +1481,10 @@
                 "name": "NY Chamber of Commerce",
                 "wikiPage": null
             }
+        ],
+        "elevators": [
+            "zone_1:local",
+            "zone_1:bank_a"
         ]
     }
 }

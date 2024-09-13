@@ -1,6 +1,15 @@
 from bs4 import BeautifulSoup
 import json
 
+with open("elevator_map.json", "r") as f:
+    elevator_map = json.load(f)
+
+def generate_elevator_map(floor):
+    floors_that_are_mechnical_rooms = ["7", "8", "41", "42", "75", "76"]
+    if floor in floors_that_are_mechnical_rooms:
+        return []
+
+    return elevator_map["floor_to_elevator"][floor]
 
 def build_tower(tower_to_build):
 
@@ -81,7 +90,8 @@ def build_tower(tower_to_build):
 
         # Add the floor to the tower
         tower[floor] = {
-            "directory": directory
+            "directory": directory,
+            "elevators": generate_elevator_map(floor)
         }
 
         floors -= 1
@@ -89,7 +99,8 @@ def build_tower(tower_to_build):
     # The wikipedia page for tower 1 does not include a basement floor
     if tower_to_build == "tower_1":
         tower["B"] = {
-            "directory": empty_floor_object
+            "directory": empty_floor_object,
+            "elevators": generate_elevator_map("B")
         }
 
     #print(json.dumps(tower, indent=4))
