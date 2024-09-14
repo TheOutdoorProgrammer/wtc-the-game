@@ -117,6 +117,11 @@ function Game() {
 
     function generateElevator(index, key){
         if(key !== "stair_access"){
+
+            if (key === "shuttles:express" && params.tower === "1") {
+                return;
+            }
+
             return (
                     <td key={key}>
                         <div style={{
@@ -156,7 +161,6 @@ function Game() {
 
     function generateNavigation(floor) {
         const otherTower = params.tower === "1" ? "2" : "1";
-        console.log("joey", params.tower, otherTower)
         const items = [
             <a href="/map/elevators">Read the map</a>,
             <a href={`/map/directory/tower${params.tower}`}>WTC {params.tower} Directory</a>,
@@ -173,45 +177,19 @@ function Game() {
         });
     }
 
-    function generateImpacted(impacted){
-        if(impacted) {
-            const airline = params.tower === "1" ?
-                <a href={"https://en.wikipedia.org/wiki/American_Airlines_Flight_11"}>American Airlines Flight 11</a> :
-                <a href={"https://en.wikipedia.org/wiki/United_Airlines_Flight_175"}>United Airlines Flight 175</a>;
+    function generateFact(facts) {
+        if (facts.length > 0) {
+            const random_fact = facts[Math.floor(Math.random()*facts.length)];
             return (
                 <div style={{
-                    backgroundColor: 'red',
+                    backgroundColor: random_fact.color,
                     padding: '5px',
                     borderRadius: '10px',
                     maxWidth: '50ch',
                     margin: '0 auto'
                 }}>
-                    <h3>Impacted</h3>
-                    <p>
-                        This floor was directly impacted by {airline} on September 11, 2001.
-                    </p>
-                </div>
-            );
-        }
-    }
-
-    function generateTrapped(trapped) {
-        if (trapped) {
-            const airline = params.tower === "1" ?
-                <a href={"https://en.wikipedia.org/wiki/American_Airlines_Flight_11"}>American Airlines Flight 11</a> :
-                <a href={"https://en.wikipedia.org/wiki/United_Airlines_Flight_175"}>United Airlines Flight 175</a>;
-            return (
-                <div style={{
-                    backgroundColor: 'red',
-                    padding: '5px',
-                    borderRadius: '10px',
-                    maxWidth: '50ch',
-                    margin: '0 auto'
-                }}>
-                    <h3>Trapped</h3>
-                    <p>
-                        This floor was trapped after impact by {airline} on September 11, 2001.
-                    </p>
+                    <h3>{random_fact.title}</h3>
+                    <p dangerouslySetInnerHTML={{ __html: random_fact.body }} style={{paddingBottom: '5px'}} />
                 </div>
             );
         }
@@ -221,11 +199,10 @@ function Game() {
         <Layout header={`Welcome to WTC ${params.tower}`}>
             <h3>You are currently on floor {floor}.</h3>
             <div>
-                {generateImpacted(tower.floors[floor].impacted)}
-                {generateTrapped(tower.floors[floor].trapped)}
+                {generateFact(tower.floors[floor].facts)}
             </div>
             <p>
-                <h3>You can visit:</h3>
+                <h3>You May Visit</h3>
                 <div style={{textAlign: 'left', width: '35ch', display: 'inline-block'}}>
                     <ul>
                         {tower.floors[floor].directory.map((company) => {
@@ -240,13 +217,14 @@ function Game() {
                         })}
                     </ul>
                 </div>
-                <h3>Or take the elevator/stairs:</h3>
+                <h3>Navigation</h3>
                 <div>
                     {generateNavigation(floor)}
                     <br/><br/><b>Stairs</b>
                     {generateStairs()}
                 </div>
                 <div style={{textAlign: 'center'}}>
+                    <br/><b>Elevators</b>
                     <table style={{marginLeft: 'auto', marginRight: 'auto'}}>
                         {tower.floors[floor].elevators.map((elevatorKey, index) => {
                             if (index % 2 === 0) {

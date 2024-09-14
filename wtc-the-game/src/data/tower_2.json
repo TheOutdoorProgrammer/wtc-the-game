@@ -10,8 +10,13 @@
             "elevators": [
                 "shuttles:express"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "109": {
             "directory": [
@@ -23,8 +28,13 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "108": {
             "directory": [
@@ -36,8 +46,13 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "107": {
             "directory": [
@@ -74,8 +89,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "106": {
             "directory": [
@@ -88,8 +108,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "105": {
             "directory": [
@@ -102,8 +127,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "104": {
             "directory": [
@@ -120,8 +150,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "103": {
             "directory": [
@@ -134,8 +169,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "102": {
             "directory": [
@@ -148,8 +188,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "101": {
             "directory": [
@@ -162,8 +207,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "100": {
             "directory": [
@@ -176,8 +226,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "99": {
             "directory": [
@@ -190,8 +245,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "98": {
             "directory": [
@@ -204,8 +264,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "97": {
             "directory": [
@@ -218,8 +283,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "96": {
             "directory": [
@@ -232,8 +302,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "95": {
             "directory": [
@@ -246,8 +321,13 @@
                 "zone_3:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "94": {
             "directory": [
@@ -260,8 +340,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "93": {
             "directory": [
@@ -278,8 +363,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "92": {
             "directory": [
@@ -292,8 +382,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "91": {
             "directory": [
@@ -314,8 +409,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "90": {
             "directory": [
@@ -328,8 +428,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "89": {
             "directory": [
@@ -342,8 +447,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "88": {
             "directory": [
@@ -356,8 +466,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "87": {
             "directory": [
@@ -374,8 +489,13 @@
                 "zone_3:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "86": {
             "directory": [
@@ -388,8 +508,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Trapped",
+                    "body": "This floor was trapped after impact by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "85": {
             "directory": [
@@ -402,8 +527,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": true
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "84": {
             "directory": [
@@ -416,8 +546,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "83": {
             "directory": [
@@ -434,8 +569,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "82": {
             "directory": [
@@ -448,8 +588,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "81": {
             "directory": [
@@ -462,8 +607,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "80": {
             "directory": [
@@ -476,8 +626,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "79": {
             "directory": [
@@ -490,8 +645,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "78": {
             "directory": [
@@ -512,8 +672,13 @@
                 "zone_3:bank_a",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "77": {
             "directory": [
@@ -530,8 +695,13 @@
                 "zone_3:bank_d",
                 "stair_access"
             ],
-            "impacted": true,
-            "trapped": false
+            "facts": [
+                {
+                    "color": "red",
+                    "title": "Impacted",
+                    "body": "This floor was directly impacted by <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_175'>United Airlines Flight 175</a> on September 11, 2001."
+                }
+            ]
         },
         "76": {
             "directory": [
@@ -543,8 +713,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "75": {
             "directory": [
@@ -556,8 +725,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "74": {
             "directory": [
@@ -570,8 +738,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "73": {
             "directory": [
@@ -584,8 +751,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "72": {
             "directory": [
@@ -598,8 +764,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "71": {
             "directory": [
@@ -612,8 +777,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "70": {
             "directory": [
@@ -626,8 +790,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "69": {
             "directory": [
@@ -640,8 +803,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "68": {
             "directory": [
@@ -654,8 +816,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "67": {
             "directory": [
@@ -668,8 +829,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "66": {
             "directory": [
@@ -682,8 +842,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "65": {
             "directory": [
@@ -696,8 +855,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "64": {
             "directory": [
@@ -710,8 +868,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "63": {
             "directory": [
@@ -724,8 +881,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "62": {
             "directory": [
@@ -742,8 +898,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "61": {
             "directory": [
@@ -756,8 +911,7 @@
                 "zone_2:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "60": {
             "directory": [
@@ -770,8 +924,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "59": {
             "directory": [
@@ -784,8 +937,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "58": {
             "directory": [
@@ -798,8 +950,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "57": {
             "directory": [
@@ -816,8 +967,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "56": {
             "directory": [
@@ -830,8 +980,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "55": {
             "directory": [
@@ -852,8 +1001,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "54": {
             "directory": [
@@ -866,8 +1014,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "53": {
             "directory": [
@@ -880,8 +1027,7 @@
                 "zone_2:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "52": {
             "directory": [
@@ -894,8 +1040,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "51": {
             "directory": [
@@ -908,8 +1053,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "50": {
             "directory": [
@@ -922,8 +1066,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "49": {
             "directory": [
@@ -940,8 +1083,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "48": {
             "directory": [
@@ -958,8 +1100,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "47": {
             "directory": [
@@ -972,8 +1113,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "46": {
             "directory": [
@@ -986,8 +1126,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "45": {
             "directory": [
@@ -1000,8 +1139,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "44": {
             "directory": [
@@ -1018,8 +1156,7 @@
                 "zone_2:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "43": {
             "directory": [
@@ -1036,8 +1173,7 @@
                 "zone_2:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "42": {
             "directory": [
@@ -1049,8 +1185,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "41": {
             "directory": [
@@ -1062,8 +1197,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "40": {
             "directory": [
@@ -1080,8 +1214,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "39": {
             "directory": [
@@ -1094,8 +1227,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "38": {
             "directory": [
@@ -1108,8 +1240,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "37": {
             "directory": [
@@ -1122,8 +1253,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "36": {
             "directory": [
@@ -1136,8 +1266,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "35": {
             "directory": [
@@ -1150,8 +1279,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "34": {
             "directory": [
@@ -1164,8 +1292,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "33": {
             "directory": [
@@ -1178,8 +1305,7 @@
                 "zone_1:bank_d",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "32": {
             "directory": [
@@ -1196,8 +1322,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "31": {
             "directory": [
@@ -1210,8 +1335,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "30": {
             "directory": [
@@ -1228,8 +1352,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "29": {
             "directory": [
@@ -1246,8 +1369,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "28": {
             "directory": [
@@ -1272,8 +1394,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "27": {
             "directory": [
@@ -1286,8 +1407,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "26": {
             "directory": [
@@ -1300,8 +1420,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "25": {
             "directory": [
@@ -1314,8 +1433,7 @@
                 "zone_1:bank_c",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "24": {
             "directory": [
@@ -1348,8 +1466,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "23": {
             "directory": [
@@ -1366,8 +1483,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "22": {
             "directory": [
@@ -1388,8 +1504,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "21": {
             "directory": [
@@ -1418,8 +1533,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "20": {
             "directory": [
@@ -1436,8 +1550,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "19": {
             "directory": [
@@ -1454,8 +1567,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "18": {
             "directory": [
@@ -1476,8 +1588,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "17": {
             "directory": [
@@ -1490,8 +1601,7 @@
                 "zone_1:bank_b",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "16": {
             "directory": [
@@ -1504,8 +1614,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "15": {
             "directory": [
@@ -1546,8 +1655,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "14": {
             "directory": [
@@ -1572,8 +1680,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "13": {
             "directory": [
@@ -1586,8 +1693,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "12": {
             "directory": [
@@ -1600,8 +1706,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "11": {
             "directory": [
@@ -1618,8 +1723,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "10": {
             "directory": [
@@ -1632,8 +1736,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "9": {
             "directory": [
@@ -1646,8 +1749,7 @@
                 "zone_1:bank_a",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "8": {
             "directory": [
@@ -1659,8 +1761,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "7": {
             "directory": [
@@ -1672,8 +1773,7 @@
             "elevators": [
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "6": {
             "directory": [
@@ -1686,8 +1786,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "5": {
             "directory": [
@@ -1700,8 +1799,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "4": {
             "directory": [
@@ -1714,8 +1812,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "3": {
             "directory": [
@@ -1728,8 +1825,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "2": {
             "directory": [
@@ -1742,8 +1838,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "1": {
             "directory": [
@@ -1756,8 +1851,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "L": {
             "directory": [
@@ -1770,8 +1864,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "C": {
             "directory": [
@@ -1791,8 +1884,7 @@
                 "shuttles:express",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         },
         "B": {
             "directory": [
@@ -1817,8 +1909,7 @@
                 "zone_1:local",
                 "stair_access"
             ],
-            "impacted": false,
-            "trapped": false
+            "facts": []
         }
     },
     "floor_order": [

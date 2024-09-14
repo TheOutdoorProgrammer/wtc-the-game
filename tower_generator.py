@@ -1,6 +1,9 @@
 from bs4 import BeautifulSoup
 import json
 
+from tower_1_facts import tower_1_facts
+from tower_2_facts import tower_2_facts
+
 with open("floor_to_elevator.json", "r") as f:
     floor_to_elevator = json.load(f)
 
@@ -32,6 +35,7 @@ def build_tower(tower_to_build):
     soup = BeautifulSoup(tower_html.encode('utf-8'), "html.parser", from_encoding="utf-8")
     table = soup.find("table")
 
+    facts = tower_1_facts if tower_to_build == "tower_1" else tower_2_facts
     tower = {
         "floors": {},
         "floor_order": []
@@ -54,8 +58,7 @@ def build_tower(tower_to_build):
             tower["floors"][floors] = {
                 "directory": [empty_floor_object],
                 "elevators": generate_elevator_map(tower_to_build, floor),
-                "impacted": False,
-                "trapped": False
+                "facts": facts[str(floors)]
             }
             tower["floor_order"].append(str(floors))
             floors -= 1
@@ -100,32 +103,11 @@ def build_tower(tower_to_build):
                     "wikiPage": None
                 })
 
-        impacted_tower_1_floors = ["93", "94", "95", "96", "97", "98", "99"]
-        trapped_tower_1_floors = ["92", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110"]
-        impacted_tower_2_floors = ["77", "78", "79", "80", "81", "82", "83", "84", "85"]
-        trapped_tower_2_floors = ["85", "86", "87", "88", "89", "90", "91", "92", "93",
-                                  "94", "95", "96", "97", "98", "99", "100", "101", "102",
-                                  "103", "104", "105", "106", "107", "108", "109", "110"]
-
-        floor_impacted = False
-        floor_trapped = False
-        if tower_to_build == "tower_1":
-            if floor in impacted_tower_1_floors:
-                floor_impacted = True
-            if floor in trapped_tower_1_floors:
-                floor_trapped = True
-        else:
-            if floor in impacted_tower_2_floors:
-                floor_impacted = True
-            if floor in trapped_tower_2_floors:
-                floor_trapped = True
-
         # Add the floor to the tower
         tower["floors"][floor] = {
             "directory": directory,
             "elevators": generate_elevator_map(tower_to_build, floor),
-            "impacted": floor_impacted,
-            "trapped": floor_trapped
+            "facts": facts[str(floor)]
         }
         tower["floor_order"].append(floor)
 
@@ -136,8 +118,7 @@ def build_tower(tower_to_build):
         tower["floors"]["B"] = {
             "directory": [empty_floor_object],
             "elevators": generate_elevator_map(tower_to_build, "B"),
-            "impacted": False,
-            "trapped": False
+            "facts": facts["B"]
         }
         tower["floor_order"].append("B")
 

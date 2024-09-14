@@ -53,8 +53,8 @@ function ElevatorMap() {
     return (
         <Layout header="Tower Map">
             <p>
-                Key: <b>&#123;zone&#125;/&#123;bank&#125;</b><br/>
-                Ex. Floor 106 is elevator <b>3/D</b> which is Zone 3, Bank D.<br/>
+                <b>Zone/Bank Access</b><br/>
+                Ex. Floor 106 is elevator <b>3/D</b> which is elevator <b>Zone 3, Bank D</b>.<br/>
                 <br/>
                 <b>Shuttles:</b><br/>
                 <div style={{textAlign: 'left', width: '35ch', display: 'inline-block'}}>
@@ -62,7 +62,7 @@ function ElevatorMap() {
                         <li><b>S/2</b> => Shuttle to Zone 2</li>
                         <li><b>S/3</b> => Shuttle to Zone 3</li>
                         <li><b>S/E</b> => Express Shuttle (tower 2 only)</li>
-                        <li><b>S</b> => Stairs</li>
+                        <li>Every floor is accessible via the <b>stairs</b>.</li>
                     </ul>
                 </div>
                 <br/>
