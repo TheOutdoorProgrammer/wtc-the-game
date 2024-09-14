@@ -4,12 +4,16 @@ import json
 with open("floor_to_elevator.json", "r") as f:
     floor_to_elevator = json.load(f)
 
-def generate_elevator_map(floor):
-    floors_that_are_mechnical_rooms = ["7", "8", "41", "42", "75", "76"]
-    if floor in floors_that_are_mechnical_rooms:
-        return []
+def generate_elevator_map(tower_to_build, floor):
+    # The 110th floor in tower 1 was radio antennas
+    # Tower 2 was a skydeck
+    if floor == "110":
+        if tower_to_build == "tower_1":
+            return ["stair_access"]
+        else:
+            return ["shuttles:express"]
 
-    return floor_to_elevator[floor]
+    return list(set(floor_to_elevator[floor] + ["stair_access"]))
 
 def build_tower(tower_to_build):
 
@@ -88,10 +92,32 @@ def build_tower(tower_to_build):
                     "wikiPage": None
                 })
 
+        impacted_tower_1_floors = ["93", "94", "95", "96", "97", "98", "99"]
+        trapped_tower_1_floors = ["92", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110"]
+        impacted_tower_2_floors = ["77", "78", "79", "80", "81", "82", "83", "84", "85"]
+        trapped_tower_2_floors = ["85", "86", "87", "88", "89", "90", "91", "92", "93",
+                                  "94", "95", "96", "97", "98", "99", "100", "101", "102",
+                                  "103", "104", "105", "106", "107", "108", "109", "110"]
+
+        floor_impacted = False
+        floor_trapped = False
+        if tower_to_build == "tower_1":
+            if floor in impacted_tower_1_floors:
+                floor_impacted = True
+            if floor in trapped_tower_1_floors:
+                floor_trapped = True
+        else:
+            if floor in impacted_tower_2_floors:
+                floor_impacted = True
+            if floor in trapped_tower_2_floors:
+                floor_trapped = True
+
         # Add the floor to the tower
         tower[floor] = {
             "directory": directory,
-            "elevators": generate_elevator_map(floor)
+            "elevators": generate_elevator_map(tower_to_build, floor),
+            "impacted": floor_impacted,
+            "trapped": floor_trapped
         }
 
         floors -= 1
@@ -100,7 +126,7 @@ def build_tower(tower_to_build):
     if tower_to_build == "tower_1":
         tower["B"] = {
             "directory": empty_floor_object,
-            "elevators": generate_elevator_map("B")
+            "elevators": generate_elevator_map(tower_to_build, "B")
         }
 
     #print(json.dumps(tower, indent=4))

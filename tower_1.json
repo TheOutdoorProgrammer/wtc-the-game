@@ -67,9 +67,10 @@
             }
         ],
         "elevators": [
-            "zone_3:local",
-            "shuttles:express"
-        ]
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "109": {
         "directory": [
@@ -79,8 +80,10 @@
             }
         ],
         "elevators": [
-            "zone_3:local"
-        ]
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "108": {
         "directory": [
@@ -90,8 +93,10 @@
             }
         ],
         "elevators": [
-            "zone_3:local"
-        ]
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "107": {
         "directory": [
@@ -109,9 +114,11 @@
             }
         ],
         "elevators": [
-            "zone_3:bank_d",
-            "zone_3:local"
-        ]
+            "stair_access",
+            "zone_3:bank_d"
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "106": {
         "directory": [
@@ -129,8 +136,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "105": {
         "directory": [
@@ -148,8 +158,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "104": {
         "directory": [
@@ -171,8 +184,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "103": {
         "directory": [
@@ -186,8 +202,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "102": {
         "directory": [
@@ -213,8 +232,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "101": {
         "directory": [
@@ -240,8 +262,11 @@
             }
         ],
         "elevators": [
-            "zone_3:bank_d"
-        ]
+            "stair_access",
+            "zone_3:bank_c"
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "100": {
         "directory": [
@@ -251,8 +276,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "99": {
         "directory": [
@@ -262,8 +290,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "98": {
         "directory": [
@@ -273,8 +304,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "97": {
         "directory": [
@@ -284,8 +318,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "96": {
         "directory": [
@@ -299,8 +336,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "95": {
         "directory": [
@@ -310,8 +350,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_c"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "94": {
         "directory": [
@@ -329,8 +372,11 @@
             }
         ],
         "elevators": [
-            "zone_3:bank_c"
-        ]
+            "stair_access",
+            "zone_3:bank_b"
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "93": {
         "directory": [
@@ -348,8 +394,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": true,
+        "trapped": false
     },
     "92": {
         "directory": [
@@ -371,8 +420,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": true
     },
     "91": {
         "directory": [
@@ -410,8 +462,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "90": {
         "directory": [
@@ -437,8 +492,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "89": {
         "directory": [
@@ -508,8 +566,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "88": {
         "directory": [
@@ -527,8 +588,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "87": {
         "directory": [
@@ -550,8 +614,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "86": {
         "directory": [
@@ -569,8 +636,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "85": {
         "directory": [
@@ -596,8 +666,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "84": {
         "directory": [
@@ -631,8 +704,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "83": {
         "directory": [
@@ -678,8 +754,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "82": {
         "directory": [
@@ -693,8 +772,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "81": {
         "directory": [
@@ -716,8 +798,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "80": {
         "directory": [
@@ -763,8 +848,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "79": {
         "directory": [
@@ -798,8 +886,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_3:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "78": {
         "directory": [
@@ -877,13 +968,11 @@
             }
         ],
         "elevators": [
-            "zone_3:stairs",
-            "zone_3:bank_a",
-            "zone_3:bank_b",
-            "zone_3:bank_c",
-            "zone_3:bank_d",
-            "shuttles:zone_3"
-        ]
+            "stair_access",
+            "zone_3:bank_a"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "77": {
         "directory": [
@@ -921,8 +1010,15 @@
             }
         ],
         "elevators": [
-            "zone_3:stairs"
-        ]
+            "zone_3:bank_b",
+            "shuttles:zone_3",
+            "zone_3:bank_c",
+            "zone_3:bank_a",
+            "stair_access",
+            "zone_3:bank_d"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "76": {
         "directory": [
@@ -931,7 +1027,11 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "75": {
         "directory": [
@@ -940,7 +1040,11 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "74": {
         "directory": [
@@ -950,8 +1054,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "73": {
         "directory": [
@@ -965,8 +1072,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "72": {
         "directory": [
@@ -976,8 +1086,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "71": {
         "directory": [
@@ -987,8 +1100,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "70": {
         "directory": [
@@ -998,8 +1114,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "69": {
         "directory": [
@@ -1009,8 +1128,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "68": {
         "directory": [
@@ -1020,8 +1142,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "67": {
         "directory": [
@@ -1035,9 +1160,11 @@
             }
         ],
         "elevators": [
-            "zone_2:bank_c",
-            "zone_2:bank_d"
-        ]
+            "stair_access",
+            "zone_2:bank_c"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "66": {
         "directory": [
@@ -1047,8 +1174,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "65": {
         "directory": [
@@ -1062,8 +1192,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "64": {
         "directory": [
@@ -1077,8 +1210,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "63": {
         "directory": [
@@ -1092,8 +1228,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "62": {
         "directory": [
@@ -1103,8 +1242,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "61": {
         "directory": [
@@ -1114,8 +1256,11 @@
             }
         ],
         "elevators": [
-            "zone_2:bank_b"
-        ]
+            "stair_access",
+            "zone_2:bank_c"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "60": {
         "directory": [
@@ -1129,8 +1274,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "59": {
         "directory": [
@@ -1144,8 +1292,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "58": {
         "directory": [
@@ -1155,8 +1306,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "57": {
         "directory": [
@@ -1166,8 +1320,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "56": {
         "directory": [
@@ -1177,8 +1334,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "55": {
         "directory": [
@@ -1196,8 +1356,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "54": {
         "directory": [
@@ -1207,9 +1370,11 @@
             }
         ],
         "elevators": [
-            "zone_2:bank_a",
+            "stair_access",
             "zone_2:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "53": {
         "directory": [
@@ -1267,8 +1432,11 @@
             }
         ],
         "elevators": [
-            "zone_2:bank_a"
-        ]
+            "stair_access",
+            "zone_2:bank_b"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "52": {
         "directory": [
@@ -1314,8 +1482,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "51": {
         "directory": [
@@ -1349,8 +1520,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "50": {
         "directory": [
@@ -1368,8 +1542,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "49": {
         "directory": [
@@ -1391,8 +1568,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "48": {
         "directory": [
@@ -1406,8 +1586,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "47": {
         "directory": [
@@ -1457,8 +1640,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "46": {
         "directory": [
@@ -1616,8 +1802,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "45": {
         "directory": [
@@ -1691,8 +1880,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_2:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "44": {
         "directory": [
@@ -1726,13 +1918,11 @@
             }
         ],
         "elevators": [
-            "zone_2:stairs",
-            "zone_2:bank_a",
-            "zone_2:bank_b",
-            "zone_2:bank_c",
-            "zone_2:bank_d",
-            "shuttles:zone_2"
-        ]
+            "stair_access",
+            "zone_2:bank_a"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "43": {
         "directory": [
@@ -1742,8 +1932,15 @@
             }
         ],
         "elevators": [
-            "zone_2:stairs"
-        ]
+            "zone_2:bank_c",
+            "zone_2:bank_a",
+            "zone_2:bank_b",
+            "shuttles:zone_2",
+            "stair_access",
+            "zone_2:bank_d"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "42": {
         "directory": [
@@ -1752,7 +1949,11 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "41": {
         "directory": [
@@ -1761,7 +1962,11 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "40": {
         "directory": [
@@ -1775,8 +1980,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "39": {
         "directory": [
@@ -1814,8 +2022,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "38": {
         "directory": [
@@ -1841,8 +2052,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "37": {
         "directory": [
@@ -1876,8 +2090,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "36": {
         "directory": [
@@ -1887,8 +2104,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "35": {
         "directory": [
@@ -1902,8 +2122,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "34": {
         "directory": [
@@ -1921,8 +2144,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "33": {
         "directory": [
@@ -1992,8 +2218,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_d"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "32": {
         "directory": [
@@ -2011,9 +2240,11 @@
             }
         ],
         "elevators": [
-            "zone_1:bank_c",
-            "zone_1:bank_d"
-        ]
+            "stair_access",
+            "zone_1:bank_c"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "31": {
         "directory": [
@@ -2031,8 +2262,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "30": {
         "directory": [
@@ -2046,8 +2280,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "29": {
         "directory": [
@@ -2073,8 +2310,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "28": {
         "directory": [
@@ -2092,8 +2332,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "27": {
         "directory": [
@@ -2119,8 +2362,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "26": {
         "directory": [
@@ -2130,8 +2376,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "25": {
         "directory": [
@@ -2157,8 +2406,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_c"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "24": {
         "directory": [
@@ -2188,9 +2440,11 @@
             }
         ],
         "elevators": [
-            "zone_1:bank_c",
-            "zone_1:bank_d"
-        ]
+            "stair_access",
+            "zone_1:bank_b"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "23": {
         "directory": [
@@ -2204,9 +2458,11 @@
             }
         ],
         "elevators": [
-            "zone_1:bank_c",
-            "zone_1:bank_d"
-        ]
+            "stair_access",
+            "zone_1:bank_b"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "22": {
         "directory": [
@@ -2284,8 +2540,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "21": {
         "directory": [
@@ -2363,8 +2622,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "20": {
         "directory": [
@@ -2382,8 +2644,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "19": {
         "directory": [
@@ -2413,8 +2678,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "18": {
         "directory": [
@@ -2432,8 +2700,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "17": {
         "directory": [
@@ -2463,8 +2734,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_b"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "16": {
         "directory": [
@@ -2486,8 +2760,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "15": {
         "directory": [
@@ -2509,8 +2786,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "14": {
         "directory": [
@@ -2544,8 +2824,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "13": {
         "directory": [
@@ -2555,8 +2838,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "12": {
         "directory": [
@@ -2574,8 +2860,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "11": {
         "directory": [
@@ -2605,8 +2894,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "10": {
         "directory": [
@@ -2624,8 +2916,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "9": {
         "directory": [
@@ -2639,8 +2934,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:bank_a"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "8": {
         "directory": [
@@ -2649,7 +2947,12 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access",
+            "stair_acccess"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "7": {
         "directory": [
@@ -2658,7 +2961,12 @@
                 "wikiPage": "https://en.wikipedia.org/wiki/Mechanical_floor"
             }
         ],
-        "elevators": []
+        "elevators": [
+            "stair_access",
+            "stair_acccess"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "6": {
         "directory": [
@@ -2668,8 +2976,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "5": {
         "directory": [
@@ -2679,8 +2990,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "4": {
         "directory": [
@@ -2690,8 +3004,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "3": {
         "directory": [
@@ -2709,8 +3026,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "2": {
         "directory": [
@@ -2720,8 +3040,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "1": {
         "directory": {
@@ -2761,8 +3084,11 @@
             }
         ],
         "elevators": [
+            "stair_access",
             "zone_1:local"
-        ]
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "C": {
         "directory": [
@@ -2772,15 +3098,18 @@
             }
         ],
         "elevators": [
-            "zone_1:local",
-            "zone_1:bank_a",
-            "zone_1:bank_b",
-            "zone_1:bank_c",
-            "zone_1:bank_d",
-            "shuttles:zone_2",
             "shuttles:zone_3",
-            "shuttles:express"
-        ]
+            "zone_1:bank_d",
+            "zone_1:local",
+            "shuttles:zone_2",
+            "shuttles:express",
+            "zone_1:bank_c",
+            "stair_access",
+            "zone_1:bank_b",
+            "zone_1:bank_a"
+        ],
+        "impacted": false,
+        "trapped": false
     },
     "B": {
         "directory": {
@@ -2788,8 +3117,8 @@
             "wikiPage": null
         },
         "elevators": [
-            "zone_1:local",
-            "zone_1:bank_a"
+            "stair_access",
+            "zone_1:local"
         ]
     }
 }

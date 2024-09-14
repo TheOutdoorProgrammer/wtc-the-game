@@ -1,7 +1,6 @@
 {
     "B": [
-        "zone_1:local",
-        "zone_1:bank_a"
+        "zone_1:local"
     ],
     "C": [
         "zone_1:local",
@@ -33,6 +32,12 @@
     ],
     "6": [
         "zone_1:local"
+    ],
+    "7": [
+        "stair_acccess"
+    ],
+    "8": [
+        "stair_acccess"
     ],
     "9": [
         "zone_1:bank_a"
@@ -77,12 +82,10 @@
         "zone_1:bank_b"
     ],
     "23": [
-        "zone_1:bank_c",
-        "zone_1:bank_d"
+        "zone_1:bank_b"
     ],
     "24": [
-        "zone_1:bank_c",
-        "zone_1:bank_d"
+        "zone_1:bank_b"
     ],
     "25": [
         "zone_1:bank_c"
@@ -106,8 +109,7 @@
         "zone_1:bank_c"
     ],
     "32": [
-        "zone_1:bank_c",
-        "zone_1:bank_d"
+        "zone_1:bank_c"
     ],
     "33": [
         "zone_1:bank_d"
@@ -133,16 +135,21 @@
     "40": [
         "zone_1:bank_d"
     ],
-    "43": [
-        "zone_2:stairs"
+    "41": [
+        "stair_access"
     ],
-    "44": [
-        "zone_2:stairs",
+    "42": [
+        "stair_access"
+    ],
+    "43": [
+        "shuttles:zone_2",
         "zone_2:bank_a",
         "zone_2:bank_b",
         "zone_2:bank_c",
-        "zone_2:bank_d",
-        "shuttles:zone_2"
+        "zone_2:bank_d"
+    ],
+    "44": [
+        "zone_2:bank_a"
     ],
     "45": [
         "zone_2:bank_a"
@@ -169,10 +176,9 @@
         "zone_2:bank_a"
     ],
     "53": [
-        "zone_2:bank_a"
+        "zone_2:bank_b"
     ],
     "54": [
-        "zone_2:bank_a",
         "zone_2:bank_b"
     ],
     "55": [
@@ -194,7 +200,7 @@
         "zone_2:bank_b"
     ],
     "61": [
-        "zone_2:bank_b"
+        "zone_2:bank_c"
     ],
     "62": [
         "zone_2:bank_c"
@@ -212,8 +218,7 @@
         "zone_2:bank_c"
     ],
     "67": [
-        "zone_2:bank_c",
-        "zone_2:bank_d"
+        "zone_2:bank_c"
     ],
     "68": [
         "zone_2:bank_d"
@@ -236,16 +241,21 @@
     "74": [
         "zone_2:bank_d"
     ],
-    "77": [
-        "zone_3:stairs"
+    "75": [
+        "stair_access"
     ],
-    "78": [
-        "zone_3:stairs",
+    "76": [
+        "stair_access"
+    ],
+    "77": [
+        "shuttles:zone_3",
         "zone_3:bank_a",
         "zone_3:bank_b",
         "zone_3:bank_c",
-        "zone_3:bank_d",
-        "shuttles:zone_3"
+        "zone_3:bank_d"
+    ],
+    "78": [
+        "zone_3:bank_a"
     ],
     "79": [
         "zone_3:bank_a"
@@ -293,7 +303,7 @@
         "zone_3:bank_b"
     ],
     "94": [
-        "zone_3:bank_c"
+        "zone_3:bank_b"
     ],
     "95": [
         "zone_3:bank_c"
@@ -314,7 +324,7 @@
         "zone_3:bank_c"
     ],
     "101": [
-        "zone_3:bank_d"
+        "zone_3:bank_c"
     ],
     "102": [
         "zone_3:bank_d"
@@ -332,17 +342,16 @@
         "zone_3:bank_d"
     ],
     "107": [
-        "zone_3:bank_d",
-        "zone_3:local"
+        "zone_3:bank_d"
     ],
     "108": [
-        "zone_3:local"
+        "stair_access"
     ],
     "109": [
-        "zone_3:local"
+        "stair_access"
     ],
     "110": [
-        "zone_3:local",
-        "shuttles:express"
+        "wtc_1:stair_access",
+        "wtc_2:shuttles:express"
     ]
 }
