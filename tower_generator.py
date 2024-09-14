@@ -13,7 +13,9 @@ def generate_elevator_map(tower_to_build, floor):
         else:
             return ["shuttles:express"]
 
-    return list(set(floor_to_elevator[floor] + ["stair_access"]))
+    if "stair_access" not in floor_to_elevator[floor]:
+        return floor_to_elevator[floor] + ["stair_access"]
+    return floor_to_elevator[floor]
 
 def build_tower(tower_to_build):
 
@@ -30,7 +32,10 @@ def build_tower(tower_to_build):
     soup = BeautifulSoup(tower_html.encode('utf-8'), "html.parser", from_encoding="utf-8")
     table = soup.find("table")
 
-    tower = {}
+    tower = {
+        "floors": {},
+        "floor_order": []
+    }
     floors = 110
 
     rows = table.find_all('tr')
@@ -46,11 +51,14 @@ def build_tower(tower_to_build):
             if floors <= 0:
                 break
             print(f"Creating missing floor {floors}")
-            tower[floors] = {
-                "directory": empty_floor_object
+            tower["floors"][floors] = {
+                "directory": [empty_floor_object],
+                "elevators": generate_elevator_map(tower_to_build, floor),
+                "impacted": False,
+                "trapped": False
             }
+            tower["floor_order"].append(str(floors))
             floors -= 1
-
 
         # Create the directory for the floow
         directory = []
@@ -113,21 +121,25 @@ def build_tower(tower_to_build):
                 floor_trapped = True
 
         # Add the floor to the tower
-        tower[floor] = {
+        tower["floors"][floor] = {
             "directory": directory,
             "elevators": generate_elevator_map(tower_to_build, floor),
             "impacted": floor_impacted,
             "trapped": floor_trapped
         }
+        tower["floor_order"].append(floor)
 
         floors -= 1
 
     # The wikipedia page for tower 1 does not include a basement floor
     if tower_to_build == "tower_1":
-        tower["B"] = {
-            "directory": empty_floor_object,
-            "elevators": generate_elevator_map(tower_to_build, "B")
+        tower["floors"]["B"] = {
+            "directory": [empty_floor_object],
+            "elevators": generate_elevator_map(tower_to_build, "B"),
+            "impacted": False,
+            "trapped": False
         }
+        tower["floor_order"].append("B")
 
     #print(json.dumps(tower, indent=4))
     with open(f"{tower_to_build}.json", "w") as f:
