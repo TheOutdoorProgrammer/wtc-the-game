@@ -1,0 +1,7 @@
+{
+  "name": "wtc-the-game",
+  "compatibility_date": "2026-03-20",
+  "assets": {
+    "directory": "./wtc-the-game/build"
+  }
+}
